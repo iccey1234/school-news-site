@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+nav{
+    background: #07c226;
+    padding: 10px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+h1{
+    color: darkblue;
+}
+
+form{
+    width: 300px;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+button{
+    padding: 10px;
+}
